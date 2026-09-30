@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lumi · Estúdio Lumi",
+      "hasCanvas": false,
+      "bodyTextLen": 521,
+      "bodyTextHash": "ae35d7284fe06f0d29a249241a92a8f5b3104a0c4bc39440cfe168be483af26d",
+      "bodyTextPrefix": "Lumi ESTÚDIO LUMI Hoje Trabalho Dinheiro Vida Mesa Instalar Salv",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lumi · Estúdio Lumi",
+      "hasCanvas": false,
+      "bodyTextLen": 472,
+      "bodyTextHash": "90cd3b41a64e42df9a6cb1d5a0f67e721bde1116721bb39c624c830cda7e54a9",
+      "bodyTextPrefix": "Lumi QUARTA-FEIRA Bom dia. 30 de setembro de 2026 TRABALHADAS HO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
